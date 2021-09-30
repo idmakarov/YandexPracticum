@@ -1,5 +1,7 @@
 # Data Scientist — Яндекс.Практикум
 
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://akylson.com/wp-content/uploads/2020/10/69689792_116148766429470_3425023190613622784_o-1200x500.png"></a><br><br>
+
 ## Описание:
 В репозитории находятся учебные проекты по данному онлайн-курсу.
 
